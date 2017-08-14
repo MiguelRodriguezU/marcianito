@@ -1,0 +1,9 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="inicio_txt_saludo">50dp</dimen>
+    <dimen name="inicio_txt_saludo_margin_1">40dp</dimen>
+    <dimen name="inicio_btn_entrar">15dp</dimen>
+    <dimen name="inicio_btn_entrar_padding">10dp</dimen>
+</resources>
